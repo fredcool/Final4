@@ -1,3 +1,4 @@
 wishlistService
 deleteItem
 newMethod
+deleteItems
