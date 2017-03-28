@@ -3,3 +3,4 @@ deleteItem
 newMethod
 deleteItems
 rename to deleteItemById
+rename to deleteItemByIds
